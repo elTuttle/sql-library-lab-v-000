@@ -44,3 +44,12 @@ INSERT INTO characters(name,motto,species,author_id,series_id)
 VALUES("Gandalf","All we have to decide is what to do with the time that is given us.","Wizard",2,2);
 INSERT INTO characters(name,motto,species,author_id,series_id)
 VALUES("Legolas","They're Taking the Hobbits to Isengard","Elf",2,2);
+
+INSERT INTO character_books (character_id, book_id)VALUES(1,1)
+INSERT INTO character_books (character_id, book_id)VALUES(1,2)
+INSERT INTO character_books (character_id, book_id)VALUES(1,3)
+INSERT INTO character_books (character_id, book_id)VALUES(2,1)
+INSERT INTO character_books (character_id, book_id)VALUES(2,2)
+INSERT INTO character_books (character_id, book_id)VALUES(2,3)
+INSERT INTO character_books (character_id, book_id)VALUES(3,3)
+INSERT INTO character_books (character_id, book_id)VALUES(4,1)
