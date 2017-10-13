@@ -43,4 +43,4 @@ VALUES("Frodo","It must often be so, Sam, when things are in danger: some one ha
 INSERT INTO characters(name,motto,species,author_id,series_id)
 VALUES("Gandalf","All we have to decide is what to do with the time that is given us.","Wizard",2,2);
 INSERT INTO characters(name,motto,species,author_id,series_id)
-VALUES("Gollum","Precious","Hobbit",2,2);
+VALUES("Legolas","They're Taking the Hobbits to Isengard","Elf",2,2);
