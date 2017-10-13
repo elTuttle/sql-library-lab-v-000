@@ -36,3 +36,11 @@ VALUES("Voldemort","Greatness inspires envy, envy engenders spite, spite spawns 
 INSERT INTO characters(name,motto,species,author_id,series_id)
 VALUES("Dobby","Dobby is used to death threats, sir. Dobby gets them five times a day at home.","House-elf",1,1);
 
+INSERT INTO characters(name,motto,species,author_id,series_id)
+VALUES("Gollum","Precious","Hobbit",2,2);
+INSERT INTO characters(name,motto,species,author_id,series_id)
+VALUES("Frodo","It must often be so, Sam, when things are in danger: some one has to give them up, lose them, so that others may keep them.","Hobbit",2,2);
+INSERT INTO characters(name,motto,species,author_id,series_id)
+VALUES("Gandalf","All we have to decide is what to do with the time that is given us.","Wizard",2,2);
+INSERT INTO characters(name,motto,species,author_id,series_id)
+VALUES("Gollum","Precious","Hobbit",2,2);
