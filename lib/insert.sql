@@ -26,3 +26,13 @@ INSERT INTO books(title,year,series_id)
 VALUES("The Two Towers",1954,2);
 INSERT INTO books(title,year,series_id)
 VALUES("The Return of the King",1955,2);
+
+INSERT INTO characters(name,motto,species,author_id,series_id)
+VALUES("Harry Potter","I solemnly swear that I am up to no good.","Half-blood",1,1);
+INSERT INTO characters(name,motto,species,author_id,series_id)
+VALUES("Hagrid","You're a wizard, harry.","Half-giant",1,1);
+INSERT INTO characters(name,motto,species,author_id,series_id)
+VALUES("Voldemort","Greatness inspires envy, envy engenders spite, spite spawns lies.","Half-blood",1,1);
+INSERT INTO characters(name,motto,species,author_id,series_id)
+VALUES("Dobby","Dobby is used to death threats, sir. Dobby gets them five times a day at home.","House-elf",1,1);
+
